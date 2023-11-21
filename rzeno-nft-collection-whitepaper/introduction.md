@@ -25,3 +25,13 @@ ART sneak peak
 <figure><img src="../.gitbook/assets/F6ikfUNaMAAc9bZ.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/F9geg21bMAAcnkh.jpg" alt=""><figcaption></figcaption></figure>
+
+**Funds Breakdown:**
+
+50% will goes to development and team wallet to pay salary and other stuff
+
+30% $Rzeno liquidity
+
+10% treasury wallet
+
+10% community wallet
