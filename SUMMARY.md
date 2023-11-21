@@ -12,11 +12,11 @@
 
 * [ℹ Introduction](rzeno-nft-collection-whitepaper/introduction.md)
 * [🛒 utility](rzeno-nft-collection-whitepaper/utility.md)
+* [🗺 Roadmap](rzeno-nft-collection-whitepaper/roadmap/README.md)
+  * [🗺 Roadmap](rzeno-nft-collection-whitepaper/roadmap/roadmap.md)
+* [♨ Team](rzeno-nft-collection-whitepaper/team.md)
 
 ## 🗺 Roadmap of Rzeno NFT collection.
-
-* [🗺 Roadmap](roadmap-of-rzeno-nft-collection./roadmap/README.md)
-  * [🗺 Roadmap](roadmap-of-rzeno-nft-collection./roadmap/roadmap.md)
 
 ## ⚒ Nft Toolkit
 
@@ -34,5 +34,3 @@
 * [Intro on NFT Utility Plugins](nft-education-hub/intro-on-nft-utility-plugins.md)
 
 ## Group 1
-
-* [Team](group-1/team.md)
