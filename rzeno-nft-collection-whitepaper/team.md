@@ -6,7 +6,7 @@ Zeno is a software engineer worked as a backend engineer with different web3 pro
 
 &#x20;**Marketing Adviser: PACEM**
 
-Pacem passionated speaker and amazing advisor on X also a co founder of cryptoherds join us as our Marketing adviser ([https://twitter.com/pah3em](https://twitter.com/pah3em)).
+Pacem passionated space host and amazing marketing advisor on X also a co founder of cryptoherds join us as our Marketing adviser ([https://twitter.com/pah3em](https://twitter.com/pah3em)).
 
 #### ARTIST: ROVAN
 
