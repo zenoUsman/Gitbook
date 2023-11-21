@@ -16,8 +16,6 @@
   * [🗺 Roadmap](rzeno-nft-collection-whitepaper/roadmap/roadmap.md)
 * [♨ Team](rzeno-nft-collection-whitepaper/team.md)
 
-## 🗺 Roadmap of Rzeno NFT collection.
-
 ## ⚒ Nft Toolkit
 
 * [Intro on NFT Toolkit](nft-toolkit/intro-on-nft-toolkit.md)
