@@ -1,18 +1,12 @@
 ---
-description: Governance & staking
+description: '"Every art itself is a utility"'
 ---
 
 # 🛒 utility
 
-Staking, a central element of the Rzeno NFT Collection, enables holders to harness the true potential of their NFTs. By staking your Rzeno NFTs, you're not merely displaying your ownership; you're putting them to work for you. Here's how it works:
+Rzeno Nfts build for community, build by community, and give back to community here is utility we bringing for our holders & community is staking where every holder earn $RZO our platform token which will utilize as a currency for purchasing, rewarding to community , giveaways. Another utility we making DAO in which all Rzeno nfts holders have right to make proposal participate in platform development, arft upgrade proposal, community development, This nft can upgrade into 3d art holders also get gaming experience as a utility.
 
-**1. Earning Passive Income**: Staking your Rzeno NFTs allows you to earn a consistent stream of passive income. Your NFTs become a part of a dynamic ecosystem where they actively participate in various blockchain activities, generating rewards in the form of tokens.
-
-**2. Governance Participation**: Beyond financial rewards, staked Rzeno NFTs grant you a say in the governance of the ecosystem. You get a voice in critical decisions, helping shape the future of the project.
-
-**3. Enhanced Utility**: Staked Rzeno NFTs may also unlock additional features, privileges, and experiences within our ecosystem, offering unique opportunities for NFT collectors and enthusiasts.
-
-4. **Gamefi Usage:** Rzeno Nfts holder can use nfts in our upcoming magitek game they have opportunities to get membership access to Rzenolabs products.
+Note: "Always remind this is Dynamic world of art where art is still avalible but dynamics and utilities changing time by time so DYOR"
 
 ***
 
