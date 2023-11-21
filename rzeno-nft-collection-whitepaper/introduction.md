@@ -13,3 +13,9 @@ Supply: 1200
 Price : 8 matic
 
 Art type: Anime 2d upgradable
+
+
+
+ART sneak peak
+
+<figure><img src="../.gitbook/assets/rzeno.jpg" alt=""><figcaption></figcaption></figure>
