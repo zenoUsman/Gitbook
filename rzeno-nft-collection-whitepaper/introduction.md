@@ -21,3 +21,7 @@ Art type: Anime 2d upgradable
 ART sneak peak
 
 <figure><img src="../.gitbook/assets/rzeno.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/F6ikfUNaMAAc9bZ.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/F9geg21bMAAcnkh.jpg" alt=""><figcaption></figcaption></figure>
